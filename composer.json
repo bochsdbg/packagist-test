@@ -1,0 +1,13 @@
+{
+  "name": "bochsdbg/packagist-test",
+  "description": "a test package for composer",
+  "keywords": ["test"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {"name": "NEb0", "email": "neb0@empherino.net"}
+  ],
+  "require": {
+    "php": ">=5.3"
+  }
+}
